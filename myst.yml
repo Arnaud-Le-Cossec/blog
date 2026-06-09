@@ -1,7 +1,7 @@
 version: 1
 project:
   title: My Blog
-  description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+  description: A blog about electronics, Hardware architecture, Emulators and open-source software.
   # thumbnail: images/profile-thumbnail.webp
   # authors:
   #   - name: Jane Doe
@@ -13,9 +13,11 @@ project:
   copyright: '2026'
   keywords:
     - Blog
-    - Data Science
+    - Electronics
+    - Hardware architecture
+    - Emulators
     - Open-source Software
-  github: opengeos/myst-blog-template
+  github: arnaud-le-cossec/blog
   exclude:
     - _build
     - Thumbs.db
@@ -46,12 +48,9 @@ site:
     # analytics_google: G-XXXXXXXXXX
     folders: true
   actions:
-    - title: RSS
-      url: https://opengeos.org/myst-blog-template/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
     footer: |
-      [GitHub](https://github.com/username) |
-      [LinkedIn](https://www.linkedin.com/in/username) |
-      [Twitter](https://twitter.com/username)
+      [GitHub](https://github.com/arnaud-le-cossec) |
+      [LinkedIn](https://www.linkedin.com/in/arnaud-le-cossec)

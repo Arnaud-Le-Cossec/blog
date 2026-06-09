@@ -1,15 +1,15 @@
 ---
 title: My Blog
-subtitle: Thoughts on data science, open-source software, and teaching.
-description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+subtitle: Electronics, hardware architecture, emulators and more !
+description: A blog about electronics, Hardware architecture, Emulators and open-source software.
 ---
 
 # My Blog
 
-## Subscribe
+## Links:
 
-- [RSS feed](/rss.xml) (or [Atom](/atom.xml))
-- [LinkedIn](https://www.linkedin.com/in/username)
+- [Github](https://github.com/arnaud-le-cossec)
+- [LinkedIn](https://www.linkedin.com/in/arnaud-le-cossec)
 
 ---
 
