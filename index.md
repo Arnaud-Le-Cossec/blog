@@ -4,6 +4,8 @@ subtitle: Electronics, hardware architecture, emulators and more !
 description: A blog about electronics, Hardware architecture, Emulators and open-source software.
 ---
 
+> **Important !** This blog is a work in progress !
+
 # My Blog
 
 ## Links:
