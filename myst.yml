@@ -33,9 +33,8 @@ project:
     - README.md
   toc:
     - file: index.md
-    - file: tags/myst-markdown.md
-    - file: tags/tutorial.md
-    - file: tags/github-pages.md
+    - file: about.md
+    - file: tags/zephyr-project.md
     - file: contact.md
     - pattern: posts/*.md
       hidden: true
